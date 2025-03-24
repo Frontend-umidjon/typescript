@@ -37,7 +37,7 @@ const AddPhone: React.FC = () => {
   };
 
   return (
-    <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-gray-900 to-black p-8 text-white">
+    <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-gray-900 to-black p-8">
       <Form
         name="basic"
         layout="vertical"
